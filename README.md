@@ -2,7 +2,7 @@
 
 This repo is the official implementation for DARNet proposed in the journal article "A Densely Attentive Refinement Network for Change Detection based on Very-High-Resolution Bi-Temporal Remote Sensing Images" accepted by IEEE Transactions on Geoscience and Remote sensing. More details about this work are described in the paper (https://ieeexplore.ieee.org/document/9734050). 
 
-
+![DARNet](./images/Architecture.jpg)
 
 ## Requirements
 
@@ -44,7 +44,7 @@ Prepare the training/validation/testing datasets as the examples in `data` direc
 
 ### Pretrained weights
 
-The pretrained models can be downloaded from 
+The pretrained models can be downloaded soon.
 
 
 
