@@ -61,7 +61,7 @@ Load Model then define other aspects of the model
 """
 logging.info('LOADING Model')
 
-model = load_model_unet_STA_LR(opt, dev)
+model = load_model_DARNet(opt, dev)
 oss_weight = [0.2,0.2,0.2,0.2,0.2]
 model_name = 'DARNet'+str(loss_weight)
 
